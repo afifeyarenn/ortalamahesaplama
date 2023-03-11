@@ -1,0 +1,2 @@
+# ortalamahesaplama
+ders notu hesaplama
